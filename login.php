@@ -51,7 +51,7 @@ else{
 </style>
 <body class="bg-gray-200 flex justify-center items-center h-screen">
 <div class="container w-1/3"> <!-- Adjusted width here -->
-    <p class="text-center uppercase text-brown-500 font-bold text-sm">New Here</p>
+    <p class="text-center uppercase text-red-500 font-bold text-sm">New Here</p>
     <h1 class="text-center text-3xl font-bold my-2">Login Now</h1>
 
     <form method="post" class="form-container bg-white p-8 mt-4 shadow-md">
